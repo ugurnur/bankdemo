@@ -8,5 +8,9 @@ public class TrialOne {
 
         System.out.println("Master update");
 
+      System.out.println("remote ibrahim conflict");
+        System.out.println("here is a new update");
+      System.out.println("master branch");
+
     }
 }
